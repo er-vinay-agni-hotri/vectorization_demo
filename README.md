@@ -23,7 +23,7 @@ flowchart LR
 
 A[A is an array of size 1 million numbers] --> C(("A+B"))
 B[B is an array of size 1 million numbers] --> C
-C --> D[dot operation will return product of two arrays]
+C --> D["+" operation will return sum of two arrays]
 ```
 
 ## References  
